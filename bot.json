@@ -1,0 +1,148 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey", "hii"],
+    "bot_response": "Welcome to Park College of Engineering and Technology. We are here to help you about the queries regarding college. How can I help you?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["for","location"],
+    "bot_response":"\tPark College of Engineering and Technology\n\t\tNH 544, Avinashi Road,\n\t\tKaniyur, \n in a location \n\n\t\t Coimbatore 641659\n\t\thttps://www.google.com/maps/place/Park+College+Of+Engineering+And+Technology,+NH+47,+Avinashi++Coimbatore+Road,+ Park+Engineering+College+Road,+Kaniyur,+Tamil+Nadu+641659/@1 1.0933231,77.1638869,17z/data=!4m2!3m1!1s0x3ba8ff9811e4f389:0x1 9d353a0c59d2275.",
+    "required_words": ["location"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [ "for","contact", "us"],
+    "bot_response":"\tPhone: 0421-2911100, 2911200\n\t\tMobile: +9194437 92222\n\t\tFax No.: 0421 - 2334453\n\t\tEmail: info@pcet.ac.in",
+    "required_words": ["contact"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "courses", "available?"],
+    "bot_response": "We have totally 14 courses in our college. They are \nCSE,\n IT,\n MECH,\n MCET, \n AERO, \n AERO SPACE,\n TXT,\n ROB, \n BIO, \n GIO, \n ECE, \n EEE,\n AGRI,\n CIVIL.",
+    "required_words": ["courses"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "facilities", "there in Park college"],
+    "bot_response": "we have facilities like\n library, \n hostel,\n infrastructure, \n internet, \n sports & games,\n transport facilities and so on.",
+    "required_words": ["facilities"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "about", "the", "placement", " in Park college"],
+    "bot_response": "In college, we have separate training for the placements. We have skilled professional teachers \nfor the placement training. We start the placement training for the students in the 3rd academic year.\nPlacements are available at Park College of Engineering and Technology which open up career opportunities\nfor the students studying here across all specialisations. The placement record as provided by the college \nincludes top recruiters such as Capgemini, TCS, Kia Motors, Tata Motors, Bosch, Wipro and Oracle. Visit this \nlink to know the placement record provided by the college - http://www.pcet.ac.in/placements/activities/. \nThe highest package was around 4.5 lakhs p.a. and the average package is 2-2.5 lakhs p.a",
+    "required_words": ["placement"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["Tell", "me ", "the", "details", " about Park college"],
+    "bot_response": "The Park College of Engineering and Technology was started in 1996 and is situated on \nthe National Highway NH 544 in Kaniyur at 28 km east from the industrial city of Coimbatore \nin Tamilnadu. It is located on a sprawling 30 acres of land surrounded by green fields and\ncoconut Groves on its three sides, and a chain of industries on the other. The College\nbuildings, hostels, workshops and Laboratories, playgrounds and gardens are laid out tastefully \nand functionally by Architects and experienced academicians and educationists rendering \nthe premises a right place forliving, learning and working. The College is\naffiliated to Anna University, Chennai and is approved by AICTE, Delhi. It is also \nan ISO Certified Institution. The Director of Technical Education of the Government \nof Tamilnadu is the supervisory authority over the College. The College is a \nco-educational self-financed private institution and aims at excellence and \nleadership in the field of technical education.the College is located not very far from \nthe highly industrialized city of Coimbatore, and far enough to escape from \nthe urban related problems. The College provides for learning in its class rooms \nand laboratories, during the regular working hours and also outside the class-rooms, \nbeyond the working hours The facilities in the college are so planned as to make \nthe College an ideal place for teaching and learning.While providing quality education \nusing all modern teaching methods and technologies. the college places emphasis \non extra curricular activities and physical education, to achieve all round development \nof its students. Behind every machine, tool, equipment and operation system there are\nsharp minds and skillful hands that design. Develop and put it all together. The expert knowledge \nand special skills at the command of a few are transferred to millions of men and \nwomen through education and training. We enable the students to sharpen their minds and \nto discover the power behind their hands at Park College of Engineering and Technology. \nThe PCET closely watches developments in industry all over the world and strives to provide \nstudents with the kind of technical education they need to succeed in the world of work.",
+    "required_words": ["details"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "mission", "of Park college"],
+    "bot_response": "\tTo create infrastructure and facilities of very high standards. To Maintain world class laboratories,\n \t\tworkshop and educational resources for learning, teaching and research.\n\n\t\tTo, Ensure effective implementation of the given curricula through highly qualified and competent faculty.\n\n\t\tTo Provide continuous evaluation, assessment, test and examinations for improving the quality of its educational input processes and outputs.",
+    "required_words": ["mission"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "vision", "of Park college"],
+    "bot_response": "\tTo pioneer potentials of students and faculty in engineering education through world class \n \t\tinfrastructure and educational resources for learning, teaching and research.",
+    "required_words": ["vision"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "is", "the", "Chairman", "of Park college"],
+    "bot_response": "DR.P.V.Ravi is the Chairman of Park college of engineering and technology.",
+    "required_words": ["who", "chairman"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "is", "the", "founder", "of Park college"],
+    "bot_response": "Mrs.Prema Ravi is the founder of Park college of engineering and technology.",
+    "required_words": ["who", "founder"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "is", "the", "chief", "executive", "officer", "of Park college"],
+    "bot_response": "Mrs.R.Anusha is the founder of Park college of engineering and technology.",
+    "required_words": ["who", "chief", "executive", "officer"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["fees", "structure"],
+    "bot_response":"COURSE\t\t\tFEES\t\t\t\tELIGIBILITY\n\tMBA\t\t\t41,000 (per year)\t\tGraduation\n\tM.E\t \t\t70,000(per year)\t\tGraduation with 50% + TANCET\n\tB.E\t \t\t87,000 (per year)\t\t10+2 with 50% + TNEA\n\tB.Tech\t\t87,000 (per year)\t\t10+2 with 50% TNEA\n\tM.C.A\t\t41,000 + (peryear)\t\tGraduation\n\tM.C.A{Lat}\t41,000 (per year)\t\tGraduation.",
+    "required_words": ["fees", "structure"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [ "scholarships"],
+    "bot_response": " Our college offers some scholarship for students which is 50% concession for students above 80% and \nsome other scholarship for socially backward students and some other scholarship for students who are medically disabled\n A lot of Government scholarship schemes can be used to take admission at Park College of Engineering and Technology.\nThe college also provides scholarships to students who are meritorious or those who are in need, based on some eligibility conditions.\nStudents will have to attend the scholarship test and personal interview for attaining scholarship through which they can get upto 100% fee waiver based on their merit and need.",
+    "required_words": ["scholarships"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["hostel", "facility"],
+    "bot_response": " \tYes, hostel is very good here and have a medium cost as much as others.and having security, and maintance, separate warden and so on.\n\t\tseparate room fr two persons and fee is nearly 30k per annum. we have two types of hostel one is MGK hostel and another one is NRI hostel.",
+    "required_words": ["hostel"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["faculty", "staffs"],
+    "bot_response": "\tDr. P. Vivekanandan\n\t\tProfessor & Head,Department Of Computer Science And Engineering\n\t\tQualification - M.Tech., Ph.D..\n\n\t\tMr.G.Prabanchan \n\t\tAssociate Professor, Department Of computer science and engineering\n\t\tQualification - M.E\n\n\t\tMs. S. Vijayalakshmi\n\t\tAssociate Professor, Department Of Information Technology\n\t\tQualification - M.E., Ph.D.\n\n\t\tMr. S.Siva Subramaniam\n\t\tAssistant Professor, Department Of Information Technology\n\t\tQualification - M.Tech.\n\n\t\tMrs. G.Anitha\n\t\tAssociate Professor, Department Of Computer Application\n\t\tQualification - M.C.A., M.Phil.\n\n\t\tMrs. P.Jayapriya\n\t\tAssociate Professor, Department Of Computer Application\n\t\tQualification - M.C.A.\n\n\t\tDr. Μ. Prince Manickam\n\t\tProfessor & Director, Department Of Business Administration\n\t\tQualification - B.Sc., Μ.Β.Α., M.Phil., Ph.D.\n\n\t\tDr. C. Meera\n\t\tAssociate Professor, Department Of Business Administration\n\t\tQualification - B.Β.Α., Μ.Β.Α., M.Phil., PGDFM., Ph.D.\n\n\t\tDr. G. Mohan Kumar\n\t\tProfessor & Principal, Department Of About The Department Mechanical Engineering\n\t\tQualification - Ph.D.\n\n\t\tProf. H.Chandragupta\n\t\tProfessor & Dean, Department Of Electrical & Electronics Engineering\n\t\tQualification - M.E.\n\n\t\tDr. S. Sasipriya\n\t\tProfessor & Head, Department Of Electronics And Communication Engineering\n\t\tQualification - Ph.D",
+    "required_words": [ "faculty"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["library", "facility"],
+    "bot_response": "The college library is a 8000 sqft space situated on the ground floor of Techno Park. \n\tIt provides services to its students by providing valuable information in the form of books, \n\tjournals and other materials relevant to their fields of study. It also provides access to digital resources. It is fully computerised and an\n\tOPAC system is available which can verify the current status of books in the library.",
+    "required_words": ["library"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [ "games", "sports","facility"],
+    "bot_response": ": The campus has a ground of 12 acres to facilitate various sports such as cricket,\n\t basketball, volleyball, football, tennis and badminton among many others. Indoor games\n\t include table tennis, carrom board, chess etc., Gym and yoga facilities are also available\n\t for students to utilize according to their needs.",
+    "required_words": ["sports"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["internet", "computer lab","facility"],
+    "bot_response": "Apart from the computer labs that have been set up for practical learning as part of the courses, \n\t the college also provides computer and internet centres for general purposes and learning \n\t during free time. These facilities are available to students beyond their college hours in order to help them work on their research projects etc..",
+    "required_words": ["internet"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "is", "the", "founder", "of Park college"],
+    "bot_response": "Mrs.Prema Ravi is the founder of Park college of engineering and technology.",
+    "required_words": ["who", "founder"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["infrastructure", "facility"],
+    "bot_response": "\tConference halls\n\t\tSeminar halls\n\t\tTechnopark\n\t\tHostel\n\t\tUniversity block\n\t\tAcademic building",
+    "required_words": ["infrastructure"]
+  }
+]
+
+
